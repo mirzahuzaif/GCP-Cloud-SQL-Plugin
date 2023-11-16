@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "boxwood-destiny-400202",
+  "private_key_id": "5b19cfc74db08a3b41ce8d270f37bfe9ef8669b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCz2rI6rYf0qL/w\nBpMWb2cv3KKAkMmJueFqcwR2gq4yIw1lXjXLA8KGIVR4smnJznEpbj7HOo+97E6O\nJIVe++ycKXIXTTz9G/7hdydDKDnoWRPAWjZ2QsXQUZhX2WA8wiyjp/YKfyPHCzFI\nMTUq6i/RG0+aJlmL6J6/yda9PUVE2P7fyK2aV2P49szwxtZrA1Y/K4hOCbP5Lxgn\nHYLQN4gu9A2uwoesZC2rT+YvXW3vYlkPMFIhIioH8hpWKtz75RYHKuyPKCaUXgFt\nkOJu1dMtGOLohJRpZ3cu2rb2V2THGunVwRRJoPa/eJgdunlsTR8JX1K/3Qis1rJB\nq/C/P2vBAgMBAAECggEAJ189DJTf8hp9+BLMYMku9t6PMWNgxzZqpxW6OKJXdXDQ\ndiwnTQPL8fZ6ajiuaWf4xFfWxODoRiykrr/GdZpjO/VjvT+ilgsqoxtlPDGiaZ+U\ncBOfoAhyiu3N0o9q3qooQQRcG4SlJaXo2jOxfq1JHfbjWGzERhk8pWIPURqIXy9e\nor8aTG/Igh7kAu12UYW8LDHwMSU2MBat/O9QnhrbNmYkA4BH9ZoWvUgqPtSSc8nC\nwuzegyvaIwmikymhnB2Wb8AgwolIKg8/dmultUcI0gANeP8rkyq9BsRQu23Vifjg\nywC+w4h7SHcqCZvD5WzCKf+eLiHWWq5t9hq9s48+ZQKBgQDgmE3MDzbmzyoKCtPq\n9/oC928tEejEIMC1fMX0DXgJGZuLr0MKopdVTJAjxMeeqT8n5lwgwaUDHvKWZTww\nmcmZ0UO4WlfhjIQolTiga6vgq8QPhZbWwn3X3mVQ5XVCIeh/oPwfU98yyAAL+qeu\n7jB2LI/uTBot7ieIjXdqctLw3QKBgQDNANY1hRyyttECnx5Z/L6lS71d19E0fCr8\n96B6zvHYid0Y8d+dDVUW8Qr4bM9cE79R0bV2agzjDWK3PblGh/WaGgxBng9NulWz\nQROmmDMWBKQzIXdeVWIgcMozgXjKcUzBptAIeL020s6vBEYtLbo9ooFLxRIF5Swx\nDOzaqJHmNQKBgEYwMrff1VeCTHAA/ENFJdPBgfQC0cxhM/hDuxVPFEE7yHl51yi+\nsS6OE8mp2HyEBeGxQv9VpPz5sfRARPQnS3KPjGtTiH1LTY3lPGId5AP9ifMT25TY\nCT3qGZ2TZ/a35BHmvIQJ0QnsqN8VgUvQ0kJMINrm25OZBq/NDhGtOrDdAoGBAIu6\nH0bZVKcm3iz4QVq6X0MQ7aBR4kDwxOgo69Poy4R46x7+dRh5pt59KqoKmAc9WnCt\nDA8K13/GdttIkcjWEHuZd3MeBXZII/OKzpcFNAS04yoKjG7aqYhM+DTE8YyiTtvL\nFA5CJU2Bv+ggdKiEe2VZJuF7D/6+pjFEiwe6T79lAoGAWmmnwS1rU+wbVUsstWC5\n/UbUTE71LZRR/HG45j4jUX4YAwzepXu4cfL4TNszBxSKszUDEcx5RRNoR0Gu/T4B\nSJjjuo6W2O4cFMp4yYUTNPYwU0CaU4/zLZr/Xz6zoan3Jzurjb8qw00YFn4WgdOf\n4rASj9tDlTu3kodR3Jtlibk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-practice@boxwood-destiny-400202.iam.gserviceaccount.com",
+  "client_id": "104730257107714620686",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-practice%40boxwood-destiny-400202.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
